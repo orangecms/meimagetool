@@ -1,0 +1,2 @@
+#!/bin/sh
+java -cp out/meimagetool-1.0-jar-with-dependencies.jar nl.peterbjornx.intelme.entry.MFSTool
